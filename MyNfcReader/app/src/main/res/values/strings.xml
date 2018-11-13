@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyNfcReader</string>
+    <string name="btnReadNfc">NFC Lesen</string>
+</resources>
